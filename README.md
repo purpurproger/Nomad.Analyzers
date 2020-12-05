@@ -1,2 +1,2 @@
 # Nomad.Analyzers
-Custom analyzer for Nomad
+Custom analyzer for Nomad project
